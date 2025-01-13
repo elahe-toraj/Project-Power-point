@@ -4,11 +4,11 @@ Overview:
 
 This project was created during my journey of learning ICDL (International Computer Driving License) 🖥️📚. As part of the final project, I was required to present something creative 💡. I chose to design a "Delicious Cafe" project 🍽️, which combines both my skills in technology and my passion for creating a cafe-themed experience ☕️.
 
-Objective
+Objective:
 
 The main goal of this project was to create an engaging and visually appealing cafe-themed presentation 🎨, showcasing my skills in various ICDL areas. I aimed to deliver a project that would be both enjoyable 🎉 and professionally executed 🎯.
 
-Features
+Features:
 
 Creative Design 🎨: The project includes a cafe-inspired theme with attention to detail, including colors, fonts, and layout to create a pleasant visual experience 👀.
 Interactive Elements 🔄: Designed with interactive elements to enhance user engagement 👥.
